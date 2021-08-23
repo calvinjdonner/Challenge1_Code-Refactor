@@ -11,5 +11,5 @@ Refactored this codebase to optimize the site for search engines by updating the
 Calvin Donner
 
 ## Website
-* 
+* https://calvinjdonner.github.io/Code-Refactor-Practice/
 * Screen shot of deployed page is included in the GitHub Repo in the images folder

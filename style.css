@@ -52,7 +52,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./Develop/assets/images/digital-marketing-meeting.jpg");
+    background-image: url("./assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -73,6 +73,7 @@ p {
     margin-left: 20px;
 }
 
+/* benefits section on right side of homepage */
 .benefits {
     margin: 0 20px 20px 0;
     padding: 20px;
@@ -99,6 +100,7 @@ p {
     margin: auto;
     max-width: 150px;
 }
+/* end benefits section */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -109,6 +111,7 @@ p {
     color: #ffffff;
 }
 
+/* main content section */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
@@ -117,6 +120,7 @@ p {
     margin-bottom: 20px;
     font-size: xx-large;
 }
+/* end main content section */
 
 footer {
     padding: 30px;

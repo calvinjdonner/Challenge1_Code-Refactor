@@ -30,11 +30,3 @@
 
   ## Questions ❓
   Please email me with any questions at: calvinjdonner@gmail.com<br />
- 
-
-<<<<<<< HEAD
-=======
-## Website
-* https://calvinjdonner.github.io/Code-Refactor-Practice/
-* Screen shot of deployed page is included in the GitHub Repo in the images folder
->>>>>>> 07e01423da1243671cd8c763f17d3a2a98031bce
